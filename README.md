@@ -8,9 +8,10 @@ Go to ManagerEmployeApplication class to run the application run as java applica
 
 
 After applicationsstarts go to browser and hit teh url ![3](https://user-images.githubusercontent.com/44228860/111351857-9c9c0e00-86a9-11eb-9585-f25f86fb8943.PNG)
-h
 
-#Project Structure![2](https://user-images.githubusercontent.com/44228860/111351492-3c0cd100-86a9-11eb-85d0-f39f60153246.PNG)
+
+#Project Structure!
+[2](https://user-images.githubusercontent.com/44228860/111351492-3c0cd100-86a9-11eb-85d0-f39f60153246.PNG)
 
 #Login Page![4](https://user-images.githubusercontent.com/44228860/111351956-b2a9ce80-86a9-11eb-9728-dd23fac1813d.PNG)
 
