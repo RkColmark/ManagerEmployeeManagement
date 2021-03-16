@@ -12,6 +12,7 @@ After application starts go to browser and hit the url
 
 
 #Project Structure
+
 ![2](https://user-images.githubusercontent.com/44228860/111351492-3c0cd100-86a9-11eb-85d0-f39f60153246.PNG)
 
 
