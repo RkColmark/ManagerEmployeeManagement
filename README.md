@@ -7,8 +7,8 @@ Bootstrap, java script.
 Go to ManagerEmployeApplication class to run the application run as java application.
 
 
-After application starts go to browser and hit the url 
-![3](https://user-images.githubusercontent.com/44228860/111351857-9c9c0e00-86a9-11eb-9585-f25f86fb8943.PNG)
+After application starts go to browser and hit the url http://localhost:8088/
+
 
 
 #Project Structure
